@@ -1,0 +1,97 @@
+{
+  "TLR": {
+    "score": 7.5,
+    "analysis": "The university demonstrates strong teaching and learning capabilities with a diverse range of courses, competent faculty, and engaged students. The faculty members have extensive experience, PhD qualifications, and notable publications. The library and labs are well-equipped, offering essential resources. However, the university could benefit from expanding its course offerings and improving student-faculty interaction to enhance the learning experience.",
+    "strengths": [
+      "Experienced and qualified faculty",
+      "Good course offerings",
+      "Well-equipped library and labs",
+      "Engaged student body"
+    ],
+    "weaknesses": [
+      "Limited course offerings",
+      "Potential for improved student-faculty interaction"
+    ],
+    "recommendations": [
+      "Introduce new and specialized courses in emerging fields",
+      "Promote collaborative projects between students and faculty",
+      "Organize regular workshops and seminars for faculty and students"
+    ]
+  },
+  "RPII": {
+    "score": 6.5,
+    "analysis": "The university shows a moderate level of research productivity. The faculty members have publications, patents, and PhD qualifications. However, the research output is limited, with a focus on specific areas. The university should encourage interdisciplinary research, collaborate with industry partners, and invest in research infrastructure to enhance its research impact and intellectual property generation.",
+    "strengths": [
+      "Faculty members with publications and patents",
+      "Focus on specific research areas"
+    ],
+    "weaknesses": [
+      "Limited research output",
+      "Lack of interdisciplinary research",
+      "Limited research infrastructure"
+    ],
+    "recommendations": [
+      "Promote interdisciplinary research initiatives",
+      "Establish research collaborations with industry partners",
+      "Invest in state-of-the-art research equipment and facilities",
+      "Develop a robust intellectual property strategy"
+    ]
+  },
+  "GO": {
+    "score": 8,
+    "analysis": "The university has a strong graduation outcome with high student GPA and successful internship placements. The students are actively involved in extracurricular activities, indicating their well-rounded development. The university could further improve by tracking alumni career paths and providing career guidance to students to ensure their long-term success.",
+    "strengths": [
+      "High student GPA",
+      "Successful internship placements",
+      "Active student involvement in extracurricular activities"
+    ],
+    "weaknesses": [
+      "Limited data on alumni career paths",
+      "Potential for improved career guidance services"
+    ],
+    "recommendations": [
+      "Track alumni career paths and outcomes",
+      "Develop a comprehensive career guidance program",
+      "Offer workshops and seminars on career development"
+    ]
+  },
+  "OI": {
+    "score": 6,
+    "analysis": "The university demonstrates moderate levels of outreach and inclusivity. It has a diverse student body and offers extracurricular activities. However, it lacks specific initiatives for accessibility and outreach to underserved communities. The university should invest in accessibility features, expand outreach programs, and implement diversity and inclusion initiatives to foster a more inclusive environment.",
+    "strengths": [
+      "Diverse student body",
+      "Extracurricular activities"
+    ],
+    "weaknesses": [
+      "Lack of accessibility features",
+      "Limited outreach programs",
+      "Scope for improvement in diversity and inclusion"
+    ],
+    "recommendations": [
+      "Implement accessibility features for students with disabilities",
+      "Develop outreach programs to engage with underserved communities",
+      "Promote diversity and inclusion initiatives across the university"
+    ]
+  },
+  "PR": {
+    "score": 7,
+    "analysis": "The university has a positive perception based on positive feedback from students. The university's strong faculty, well-equipped facilities, and diverse student body contribute to its positive image. However, the university can further enhance its perception by actively engaging with the media, showcasing its achievements, and seeking accreditation from reputable organizations.",
+    "strengths": [
+      "Positive student feedback",
+      "Strong faculty",
+      "Well-equipped facilities",
+      "Diverse student body"
+    ],
+    "weaknesses": [
+      "Limited media engagement",
+      "Lack of proactive achievement promotion",
+      "Potential for improved accreditation"
+    ],
+    "recommendations": [
+      "Develop a strategic communication plan for engaging with the media",
+      "Promote the university's achievements and research findings",
+      "Pursue accreditation from reputable organizations to enhance credibility"
+    ]
+  },
+  "overall_summary": "The National Open University of India demonstrates strengths in teaching, learning, and graduation outcomes. Its faculty boasts strong credentials and positive student feedback highlights a generally favorable learning environment. However, the university faces challenges in research productivity, outreach, and inclusivity. It needs to invest in research infrastructure, develop interdisciplinary research initiatives, and expand its outreach programs to underserved communities. Enhancing these aspects will significantly contribute to its overall ranking and standing within the academic landscape."
+}
