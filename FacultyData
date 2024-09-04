@@ -1,58 +1,41 @@
 {
-  "faculty": [
-    {
-      "facultyID": "F001",
-      "fullName": "admin singh",
-      "email": "admin@nitam.edu",
-      "phoneNo": "123-456-7890",
-      "aadharNo": "123456789012",
-      "password": "password123",
-      "gender": "Male",
-      "motherName": "Jane Doe",
-      "dob": "1980-01-01",
-      "nationality": "American",
-      "departmentID": "DEPT01",
-      "role": "Professor",
-      "officeNo": "101",
-      "levelOfEducation": "PhD",
-      "dateOfJoining": "2020-01-01",
-      "presentYear": 2023,
-      "semester": "Spring",
-      "researchPapers": [
-        {
-          "title": "Research Paper 1",
-          "publicationDate": "2022-12-31"
-        },
-        {
-          "title": "Research Paper 2",
-          "publicationDate": "2023-03-15"
-        }
-      ]
-    },
-    {
-      "facultyID": "F002",
-      "fullName": "profx",
-      "email": "profx@nitam.com",
-      "phoneNo": "987-654-3210",
-      "aadharNo": "987654321012",
-      "password": "password456",
-      "gender": "Female",
-      "motherName": "Mary Smith",
-      "dob": "1985-05-20",
-      "nationality": "Canadian",
-      "departmentID": "DEPT02",
-      "role": "Assistant Professor",
-      "officeNo": "202",
-      "levelOfEducation": "Master's",
-      "dateOfJoining": "2021-08-15",
-      "presentYear": 2023,
-      "semester": "Fall",
-      "researchPapers": [
-        {
-          "title": "Research Paper 3",
-          "publicationDate": "2023-01-10"
-        }
-      ]
-    }
-  ]
-}
+    "faculty": [
+      {
+        "FacultyID": "F001",
+        "FullName": "admin singh",
+        "Email": "admin@nitam.edu",
+        "Phone-Number": "123-456-7890",
+        "Aadhar-Number": "123456789012",
+        "gender": "Male",
+        "Mother-Name": "Jane Doe",
+        "DOB": "1980-01-01",
+        "Nationality": "American",
+        "DepartmentID": "DEPT01",
+        "Role": "Professor",
+        "Office-Number": "101",
+        "LevelOfEducation": "PhD",
+        "DateOfJoining": "2020-01-01",
+        "PresentYear": 2023,
+        "Semester": "Spring"
+      },
+      {
+        "FacultyID": "F002",
+        "FullName": "profx",
+        "Email": "profx@nitam.com",
+        "Phone-Number": "987-654-3210",
+        "Aadhar-Number": "987654321012",
+        "gender": "Female",
+        "Mother-Name": "Mary Smith",
+        "DOB": "1985-05-20",
+        "Nationality": "Canadian",
+        "DepartmentID": "DEPT02",
+        "Role": "Assistant Professor",
+        "Office-Number": "202",
+        "LevelOfEducation": "Master's",
+        "DateOfJoining": "2021-08-15",
+        "PresentYear": 2023,
+        "Semester": "Fall"
+      }
+    ]
+  }
+  
